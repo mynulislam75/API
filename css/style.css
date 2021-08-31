@@ -1,0 +1,20 @@
+.sectionstyle{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.styleOfDiv{
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.detailsShow{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
